@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../css/QuizComponent.css";
+import "./QuizComponent.css";
 import questions from "../resources/quizQuestion.json";
 import { useNavigate } from "react-router-dom";
 

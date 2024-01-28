@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/ResultComponent.css'
+import './ResultComponent.css'
 import { NavLink } from "react-router-dom";
 import { useLocation } from 'react-router-dom'
 
